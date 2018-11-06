@@ -1,0 +1,16 @@
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\BotConfiguration.bot
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.deps.json
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.runtimeconfig.json
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.runtimeconfig.dev.json
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.dll
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\bin\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.pdb
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.RazorAssemblyInfo.cache
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.RazorAssemblyInfo.cs
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.AssemblyInfoInputs.cache
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.AssemblyInfo.cs
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.RazorTargetAssemblyInfo.cache
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.dll
+C:\Users\Marcel\source\repos\Bot Builder Echo Bot V41\Bot Builder Echo Bot V41\obj\Debug\netcoreapp2.1\Bot Builder Echo Bot V41.pdb

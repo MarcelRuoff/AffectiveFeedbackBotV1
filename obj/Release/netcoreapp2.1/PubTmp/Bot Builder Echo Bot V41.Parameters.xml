@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BotBuilderEchoBotV4120181029023654" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Marcel\\source\\repos\\Bot\ Builder\ Echo\ Bot\ V41\\Bot\ Builder\ Echo\ Bot\ V41\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
